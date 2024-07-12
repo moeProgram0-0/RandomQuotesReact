@@ -1,0 +1,122 @@
+[
+    {
+        "author": "Bill Sempf",
+        "id": 44,
+        "quote": "QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/44"
+    },
+    {
+        "author": "Jamie Zawinski",
+        "id": 45,
+        "quote": "Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/45"
+    },
+    {
+        "author": "Douglas Crockford",
+        "id": 46,
+        "quote": "JavaScript is the world's most misunderstood programming language.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/46"
+    },
+    {
+        "author": "Donald Knuth",
+        "id": 47,
+        "quote": "The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/47"
+    },
+    {
+        "author": "Brian Kernighan",
+        "id": 48,
+        "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/48"
+    },
+    {
+        "author": "Bjarne Stroustrup",
+        "id": 49,
+        "quote": "There are only two kinds of programming languages: those people always bitch about and those nobody uses.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/49"
+    },
+    {
+        "author": "Jamie Zawinski",
+        "id": 50,
+        "quote": "Linux is only free if your time has no value.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/50"
+    },
+    {
+        "author": "Linus Torvalds",
+        "id": 51,
+        "quote": "Talk is cheap. Show me the code.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/51"
+    },
+    {
+        "author": "Edsger W. Dijkstra",
+        "id": 52,
+        "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/52"
+    },
+    {
+        "author": "Unknown",
+        "id": 53,
+        "quote": "To iterate is human, to recurse divine.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/53"
+    },
+    {
+        "author": "Martin Fowler",
+        "id": 54,
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/54"
+    },
+    {
+        "author": "Phil Karlton",
+        "id": 55,
+        "quote": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/55"
+    },
+    {
+        "author": "Albert Einstein",
+        "id": 56,
+        "quote": "The hardest thing in the world to understand is the income tax.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/56"
+    },
+    {
+        "author": "Edsger W. Dijkstra",
+        "id": 57,
+        "quote": "Simplicity is prerequisite for reliability.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/57"
+    },
+    {
+        "author": "Albert Einstein",
+        "id": 58,
+        "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/58"
+    },
+    {
+        "author": "Edsger W. Dijkstra",
+        "id": 59,
+        "quote": "Computer Science is no more about computers than astronomy is about telescopes.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/59"
+    },
+    {
+        "author": "Donald Knuth",
+        "id": 60,
+        "quote": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/60"
+    },
+    {
+        "author": "Grace Hopper",
+        "id": 61,
+        "quote": "It's easier to ask forgiveness than it is to get permission.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/61"
+    },
+    {
+        "author": "Yogi Berra",
+        "id": 62,
+        "quote": "In theory, there is no difference between theory and practice. But in practice, there is.",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/62"
+    },
+    {
+        "author": "Fred Brooks",
+        "id": 63,
+        "quote": "Adding manpower to a late software project makes it later!",
+        "permalink": "http://quotes.stormconsultancy.co.uk/quotes/63"
+    }
+]
